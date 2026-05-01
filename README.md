@@ -1,77 +1,24 @@
-<body>
-  <center>
-<h1 align="center">~ 👻 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👻 ~</h1>
-<br>
+# 💫 About Me:
+  🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷:  𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 — 𝓢𝓹𝓮𝓬𝓲𝓪𝓵𝓲𝔃𝓲𝓷𝓰 𝓲𝓷 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿<br>  💼 𝓒𝓪𝓻𝓮𝓮𝓻 𝓖𝓸𝓪𝓵𝓼:  𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿 <br>  🌱 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:  𝓐I, 𝓣𝔂𝓹𝓮𝓢𝓬𝓻𝓲𝓹𝓽, 𝓓𝓢𝓐 <br>  💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽:  𝓡𝓮𝓪𝓬𝓽, 𝓝𝓸𝓭𝓮.𝓳𝓼, 𝓒𝓵𝓮𝓪𝓷 𝓙𝓢, 𝓐𝓟𝓘𝓼<br>  ⚡ 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽:  𝓘 𝓭𝓻𝓲𝓷𝓴 𝓶𝓸𝓻𝓮 𝓬𝓸𝓯𝓯𝓮𝓮 𝓽𝓱𝓪𝓷 𝓶𝔂 𝓬𝓸𝓭𝓮 𝓷𝓮𝓮𝓭𝓼 ☕💻
 
-<div align="center">
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-  <p>𝒴𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒 ✨</p>
-  <p>𝐶𝑜𝒹𝒾𝓃𝑔 𝒾𝓈 𝓂𝓎 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒 𝑜𝒻 𝒸𝒽𝑜𝒾𝒸𝑒</p>
-  <p>𝒜𝓃𝒹 𝓉𝒽𝑒 𝒻𝓊𝓉𝓊𝓇𝑒 𝒾𝓈 𝓌𝒽𝑒𝓇𝑒 𝐼 𝓈𝒽𝒾𝓃𝑒 🌟</p>
-</div>
 
-<div align="center">
-<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓙𝓪𝓪𝓷𝓿𝓲</h1>
-<h3 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓜𝓔𝓡𝓝 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 & 𝓐𝓘 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪</h3>
-  <br><br>
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #c9c9c9;">
-    <b><span style="font-family: cursive; font-size: 1.5rem;">💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽:</span></b>  
-    <br><span style="font-family: 'Segoe UI Symbol', cursive;">𝓡𝓮𝓪𝓬𝓽, 𝓝𝓸𝓭𝓮.𝓳𝓼, 𝓦𝓮𝓫 𝓐𝓟𝓘𝓼, 𝓪𝓷𝓭 𝓒𝓵𝓮𝓪𝓷 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽 𝓒𝓸𝓭𝓮</span>
-  </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/-jaanvi-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaana78145@gmail.com) 
 
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #c9c9c9;">
-    <b><span style="font-family: cursive; font-size: 1.5rem;">⚡ 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽:</span></b>  
-    <br><span style="font-family: 'Segoe UI Symbol', cursive;">𝓘 𝓭𝓻𝓲𝓷𝓴 𝓶𝓸𝓻𝓮 𝓬𝓸𝓯𝓯𝓮𝓮 𝓽𝓱𝓪𝓷 𝓶𝔂 𝓬𝓸𝓭𝓮 𝓷𝓮𝓮𝓭𝓼 ☕💻</span>
-  </p>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jaan2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Jaan2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jaan2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jaan2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Jaan2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-
-  <pre style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; text-align: left;">
-  🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷:  𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 — 𝓢𝓹𝓮𝓬𝓲𝓪𝓵𝓲𝔃𝓲𝓷𝓰 𝓲𝓷 𝓒𝔂𝓫𝓮𝓻𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂
-  💼 𝓒𝓪𝓻𝓮𝓮𝓻 𝓖𝓸𝓪𝓵𝓼:  𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿 & 𝓢𝓮𝓬𝓾𝓻𝓮 𝓒𝓵𝓸𝓾𝓭 𝓐𝓹𝓹 𝓑𝓾𝓲𝓵𝓭𝓮𝓻
-  🛠️ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼:  𝓟𝓓𝓕 𝓜𝓪𝓵𝔀𝓪𝓻𝓮 𝓓𝓮𝓽𝓮𝓬𝓽𝓸𝓻 | 𝓒𝓵𝓸𝓾𝓭 𝓟𝓪𝓼𝓼𝔀𝓸𝓻𝓭 𝓜𝓪𝓷𝓪𝓰𝓮𝓻 | 𝓝𝓸𝓽𝓮𝓘𝓣
-  🌱 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:  𝓐I, 𝓣𝔂𝓹𝓮𝓢𝓬𝓻𝓲𝓹𝓽, 𝓓𝓢𝓐 
-  💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽:  𝓡𝓮𝓪𝓬𝓽, 𝓝𝓸𝓭𝓮.𝓳𝓼, 𝓒𝓵𝓮𝓪𝓷 𝓙𝓢, 𝓐𝓟𝓘𝓼
-  ⚡ 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽:  𝓘 𝓭𝓻𝓲𝓷𝓴 𝓶𝓸𝓻𝓮 𝓬𝓸𝓯𝓯𝓮𝓮 𝓽𝓱𝓪𝓷 𝓶𝔂 𝓬𝓸𝓭𝓮 𝓷𝓮𝓮𝓭𝓼 ☕💻
-  </pre>
-</div>
-
----
-
-<h2 align="center">📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 & 𝓣𝓮𝓬𝓱 ~ 📇</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-<h2 align="center">📬 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📬</h2>
-
-<p align="center">Let's connect on:</p>
-<div align="center">
-<br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <br><br>
-</div>
-<p align="center">
-  <a href="https://linkedin.com/in/-jaanvi-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/12307867_jaanvi" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-</center>
-</body>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
